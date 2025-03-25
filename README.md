@@ -7,3 +7,5 @@ fill these:
 [[your user name]] (u know)
 [[user agent]] (something like Mozilla/5.0 ...)
 [[sec ch ua platform]] (like "macOS")
+
+u must have ffmpeg in path
